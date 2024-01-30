@@ -18,3 +18,4 @@ This repository contains a collection of cryptography and cybersecurity hacks I'
 Topics covered can be found in individual repositories.
 
 1. `Reverse Cipher`.
+2. `Caesar Cipher`.
