@@ -4,7 +4,9 @@ The reverse cipher.
 
 Program accepts a txt file of credit card details, or some other secure data.
 
-The file of data is read, reversed and printed to a new file
+The file of data is read, reversed and printed to a new file.
+
+Not the best cipher as its decrypt.
 
 """
 
