@@ -1,6 +1,6 @@
 ## Caesar Cipher
 
-# Introduction
+### Introduction
 
 Caesar cipher uses keys, which encrypt the message differently
 depending on which key is used. The keys for the Caesar cipher are the
