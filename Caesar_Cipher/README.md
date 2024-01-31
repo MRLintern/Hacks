@@ -37,7 +37,5 @@ where in both cases, `x` is the number to be encrypted, and `n` is the value we 
 
 * `pyperclip 1.8.2 `.
 * `$ pip install pyperclip`.
-* or
-* `$ sudo apt-get install xclip` on `Ubuntu`.
 * `Ubuntu 20.04`.
 * `Python 3.x`.
