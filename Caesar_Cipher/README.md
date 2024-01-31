@@ -7,3 +7,6 @@ depending on which key is used. The keys for the Caesar cipher are the
 integers from 0 to 25 . Even if a cryptanalyst knows the Caesar cipher was
 used, that alone doesn’t give them enough information to break the cipher.
 They must also know the key.
+
+It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. 
+For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
