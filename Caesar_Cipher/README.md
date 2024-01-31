@@ -25,11 +25,11 @@ General formulas for encryption/decryption:
 
 Encryption:
 
-     En(x) = (x - n) mod 26
+     En(x) = (x + n) mod 26
 
 Decryption:
 
-     Dn(x) = (x + n) mod 26,
+     Dn(x) = (x - n) mod 26,
 
 where in both cases, `x` is the number to be encrypted, and `n` is the value we shift by.
 
